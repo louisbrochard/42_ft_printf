@@ -6,11 +6,11 @@
 /*   By: louisbrochard <louisbrochard@student.42    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/16 15:07:09 by louisbrocha       #+#    #+#             */
-/*   Updated: 2023/02/08 22:34:10 by louisbrocha      ###   ########.fr       */
+/*   Updated: 2023/05/15 13:42:33 by louisbrocha      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../include/ft_printf.h"
+#include "../includes/ft_printf.h"
 #include <unistd.h>
 
 int ft_print_char (char c)

@@ -3,16 +3,16 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_hexa.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: lbrochar <lbrochar@student.42.fr>          +#+  +:+       +#+        */
+/*   By: louisbrochard <louisbrochard@student.42    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/12 15:44:57 by louisbrocha       #+#    #+#             */
-/*   Updated: 2023/02/12 17:09:31 by lbrochar         ###   ########.fr       */
+/*   Updated: 2023/05/15 13:42:44 by louisbrocha      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
 #include <stdarg.h>
-#include "../include/ft_printf.h"
+#include "../includes/ft_printf.h"
 
 #define HEXA_UP "0123456789ABCDEF"
 #define HEXA_LOW "0123456789abcdef"

@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_str.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: lbrochar <lbrochar@student.42.fr>          +#+  +:+       +#+        */
+/*   By: louisbrochard <louisbrochard@student.42    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/16 15:10:15 by louisbrocha       #+#    #+#             */
-/*   Updated: 2023/02/12 16:51:22 by lbrochar         ###   ########.fr       */
+/*   Updated: 2023/05/15 13:42:58 by louisbrocha      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../include/ft_printf.h"
+#include "../includes/ft_printf.h"
 
 int ft_print_str (const char  *str)
 {

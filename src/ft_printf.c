@@ -6,7 +6,7 @@
 /*   By: louisbrochard <louisbrochard@student.42    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/08 13:46:29 by louisbrocha       #+#    #+#             */
-/*   Updated: 2023/02/12 20:44:50 by louisbrocha      ###   ########.fr       */
+/*   Updated: 2023/05/15 13:43:09 by louisbrocha      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,8 +14,8 @@
 #include <stdarg.h>
 #include <string.h>
 #include <unistd.h>
-#include "../include/ft_printf.h"
-#include "../include/libft.h"
+#include "../includes/ft_printf.h"
+#include "../includes/libft.h"
 
 int	ft_handle_format(const char *p, va_list args)
 {

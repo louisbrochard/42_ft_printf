@@ -6,11 +6,11 @@
 /*   By: louisbrochard <louisbrochard@student.42    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/16 15:17:28 by louisbrocha       #+#    #+#             */
-/*   Updated: 2023/02/08 22:37:47 by louisbrocha      ###   ########.fr       */
+/*   Updated: 2023/05/15 13:42:48 by louisbrocha      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../include/ft_printf.h"
+#include "../includes/ft_printf.h"
 
 static int	ft_nbrlen(int n)
 {
